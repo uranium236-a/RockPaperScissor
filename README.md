@@ -26,7 +26,8 @@ This is a simple rock papers scissors game made using html, css and javascript
     Paper
     Scissor
 
-## Important: Ensure style.css and script.js are in the same directory as index.html
+## Important:  
+-Ensure style.css and script.js are in the same directory as index.html. 
 
 ## Screenshot:
 ![alt text](image-1.png)
