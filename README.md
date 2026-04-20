@@ -1,16 +1,16 @@
-#Title: Rock Paper Scissors
+# Title: Rock Paper Scissors
 
 This is a simple rock papers scissors game made using html, css and javascript
 
-##Directory Structure:  
+## Directory Structure:  
 ├── index.html   # Main HTML structure  
 ├── style.css    # Styling for the game UI  
 ├── script.js    # Game logic and interactions  
 
-##How to run:
+## How to run:
     Open index.html on any browser
 
-##Interface Breakdown
+## Interface Breakdown
 -Top Board
     Autoplay button
     Reset button
